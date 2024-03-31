@@ -1,0 +1,88 @@
+const productList = [
+  {
+    category: "Electronics",
+    itemName: "Smartphone",
+    numberOfPurchases: 500,
+    price: 699.99,
+    deliveryEstimate: "2-3 business days",
+  },
+  {
+    category: "Books",
+    itemName: "Fantasy Novel",
+    numberOfPurchases: 300,
+    price: 15.99,
+    deliveryEstimate: "5-7 business days",
+  },
+  {
+    category: "Clothing",
+    itemName: "T-Shirt",
+    numberOfPurchases: 1000,
+    price: 19.99,
+    deliveryEstimate: "1-2 weeks",
+  },
+  {
+    category: "Home Decor",
+    itemName: "Throw Pillow",
+    numberOfPurchases: 200,
+    price: 29.99,
+    deliveryEstimate: "1 week",
+  },
+  {
+    category: "Sports",
+    itemName: "Yoga Mat",
+    numberOfPurchases: 400,
+    price: 49.99,
+    deliveryEstimate: "3-5 business days",
+  },
+  {
+    category: "Food",
+    itemName: "Chocolate",
+    numberOfPurchases: 800,
+    price: 4.99,
+    deliveryEstimate: "1-2 days",
+  },
+  {
+    category: "Beauty",
+    itemName: "Perfume",
+    numberOfPurchases: 600,
+    price: 79.99,
+    deliveryEstimate: "4-6 business days",
+  },
+  {
+    category: "Toys",
+    itemName: "Action Figure",
+    numberOfPurchases: 250,
+    price: 24.99,
+    deliveryEstimate: "2 weeks",
+  },
+  {
+    category: "Tools",
+    itemName: "Screwdriver Set",
+    numberOfPurchases: 150,
+    price: 39.99,
+    deliveryEstimate: "1-2 business days",
+  },
+  {
+    category: "Music",
+    itemName: "Vinyl Record",
+    numberOfPurchases: 180,
+    price: 29.99,
+    deliveryEstimate: "2-4 weeks",
+  },
+  {
+    category: "Music",
+    itemName: "Vinyl Record",
+    numberOfPurchases: 180,
+    price: 59.99,
+    deliveryEstimate: "2-4 weeks",
+  },
+  {
+    category: "Tools",
+    itemName: "Screwdriver Set",
+    numberOfPurchases: 150,
+    price: 1.99,
+    deliveryEstimate: "1-2 business days",
+  },
+];
+
+export default productList;
